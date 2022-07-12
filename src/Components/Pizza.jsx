@@ -57,7 +57,7 @@ const Pizza = ({ pizza }) => {
             </Row>
           </Card.Text>
           <Row>
-            <Col md={6}>price:{pizza.prices[0][varient] * quantity}-/RS</Col>
+            <Col md={6}>price:{pizza.prices[0][varient] * quantity}-INR</Col>
             <Col>
               <Button className="bg-dark text-white">Add to Cart</Button>
             </Col>
