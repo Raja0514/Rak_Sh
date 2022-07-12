@@ -9,7 +9,7 @@ const Topar = () => {
         <Container fluid>
           <h6 className="text-light">
             <MdLocalOffer className="text-warning"/>&nbsp;&nbsp;
-            Free Home Delivery an Order Above - 10 OMR</h6>
+            Free Home Delivery an Order Above - 500 INR</h6>
           <Nav className="ms-auto">
             <LinkContainer to="/" activeClassName="#">
               <Nav.Link>Home</Nav.Link>
